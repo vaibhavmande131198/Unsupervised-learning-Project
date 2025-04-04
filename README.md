@@ -6,10 +6,10 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 In this project, you are required to do
 
-Exploratory Data Analysis
+1. Exploratory Data Analysis
 
-Understanding what type content is available in different countries
+2. Understanding what type content is available in different countries
 
-If Netflix has been increasingly focusing on TV rather than movies in recent years.
+3. If Netflix has been increasingly focusing on TV rather than movies in recent years.
 
-Clustering similar content by matching text-based features
+4. Clustering similar content by matching text-based features
